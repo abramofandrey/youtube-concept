@@ -1,4 +1,4 @@
-# Youtube-concept - учебный проект Glo Academy
+# Youtube-concept
 Проект выполнил: Абрамов Андрей
 
 # Используемые технологии
